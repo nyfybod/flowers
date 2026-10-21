@@ -1,0 +1,21 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "anyrouter": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "AnyRouter",
+      "options": {
+        "baseURL": "https://anymodel.org/v1",
+        "apiKey": "{sk-dc9d4b7df36ba555-c5znjz-e88a5dfa}"
+      },
+      "models": {
+        "ds/deepseek-v4-pro": { "name": "DeepSeek V4 Pro" },
+        "cx/gpt-6-luna": { "name": "GPT 6 Luna" },
+        "am/nemotron-3-ultra-550b-a55b": { "name": "Nemotron 3 Ultra 550B A55b" },
+        "ds/deepseek-v4-flash": { "name": "DeepSeek V4 Flash" },
+        "ds/deepseek-v4-flash-vision": { "name": "DeepSeek V4 Flash Vision" }
+      }
+    }
+  },
+  "model": "anyrouter/ds/deepseek-v4-flash"
+}
