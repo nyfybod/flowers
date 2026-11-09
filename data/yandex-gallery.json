@@ -1,0 +1,55 @@
+{
+  "source": "https://yandex.com/maps/org/rose_73/88956342072/gallery/",
+  "checked": "2026-11-09",
+  "photos": [
+    {
+      "alt": "Rose 73 (Ульяновск, 2-й пер. Мира, 31), магазин цветов в Ульяновске",
+      "src": "https://avatars.mds.yandex.net/get-altay/14460769/2a000001932f7db83daea64388ef1fbc6862/XXXL",
+      "image": "assets/gallery/shop-01.jpg",
+      "width": 900,
+      "height": 674
+    },
+    {
+      "alt": "Rose 73 (Ульяновск, 2-й пер. Мира, 31), магазин цветов в Ульяновске",
+      "src": "https://avatars.mds.yandex.net/get-altay/15181550/2a000001943f82aea62ebb59fb24242e7a93/XXXL",
+      "image": "assets/gallery/shop-02.jpg",
+      "width": 900,
+      "height": 676
+    },
+    {
+      "alt": "Rose 73 (Ульяновск, 2-й пер. Мира, 31), магазин цветов в Ульяновске",
+      "src": "https://avatars.mds.yandex.net/get-altay/2029876/2a00000176db35f7f6aa0b433e2d9cbd0991/XXXL",
+      "image": "assets/gallery/shop-03.jpg",
+      "width": 900,
+      "height": 506
+    },
+    {
+      "alt": "Rose 73 (Ульяновск, 2-й пер. Мира, 31), магазин цветов в Ульяновске",
+      "src": "https://avatars.mds.yandex.net/get-altay/7982580/2a000001884c293591eb0297b1d80e68dc44/XXXL",
+      "image": "assets/gallery/shop-04.jpg",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "alt": "Rose 73 (Ульяновск, 2-й пер. Мира, 31), магазин цветов в Ульяновске",
+      "src": "https://avatars.mds.yandex.net/get-altay/10247017/2a00000190a6f84b20a007bd329f452c173b/XXXL",
+      "image": "assets/gallery/shop-05.jpg",
+      "width": 540,
+      "height": 720
+    },
+    {
+      "alt": "Rose 73 (Ульяновск, 2-й пер. Мира, 31), магазин цветов в Ульяновске",
+      "src": "https://avatars.mds.yandex.net/get-altay/15267123/2a0000019691a6f891b23df58ef458dac446/XXXL",
+      "image": "assets/gallery/shop-06.jpg",
+      "width": 825,
+      "height": 1100
+    },
+    {
+      "alt": "Rose 73 (Ульяновск, 2-й пер. Мира, 31), магазин цветов в Ульяновске",
+      "src": "https://avatars.mds.yandex.net/get-altay/16435010/2a000001990017e58583760022193fa1778b/XXXL",
+      "image": "assets/gallery/shop-07.jpg",
+      "width": 619,
+      "height": 1100
+    }
+  ]
+}
